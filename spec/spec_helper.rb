@@ -1,4 +1,5 @@
 require_relative '../lib/order.rb'
+require_relative '../lib/shop.rb'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
